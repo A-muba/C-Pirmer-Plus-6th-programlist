@@ -4,6 +4,7 @@ int main(){
     // Program list 3.8
     printf("Program list 3.8:\n");
     printf("Type int has a size of %zd bytes.\n", sizeof(int));
+    printf("Type short has a size of %zd bytes.\n", sizeof(short));
     printf("Type char has a size of %zd bytes.\n", sizeof(char));
     printf("Type long has a size of %zd bytes.\n", sizeof(long));
     printf("Type long long has a size of %zd bytes.\n", sizeof(long long));
